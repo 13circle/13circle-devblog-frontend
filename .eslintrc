@@ -20,6 +20,7 @@
   },
   "plugins": ["react"],
   "rules": {
+    "no-unused-vars": "off",
     "import/no-extraneous-dependencies": "off",
     "react/jsx-filename-extension": "off",
     "react/jsx-uses-react": "off",
